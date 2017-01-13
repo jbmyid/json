@@ -1,0 +1,566 @@
+[
+  {
+    "data": "DLI",
+    "label": "DELHI"
+  },
+  {
+    "data": "BCT",
+    "label": "MUMBAI"
+  },
+  {
+    "data": "SBC",
+    "label": "BANGALORE"
+  },
+  {
+    "data": "HYB",
+    "label": "HYDERABAD"
+  },
+  {
+    "data": "AF",
+    "label": "AGRA"
+  },
+  {
+    "data": "ANG",
+    "label": "AHMED NAGAR"
+  },
+  {
+    "data": "ADI",
+    "label": "AHMEDABAD"
+  },
+  {
+    "data": "AII",
+    "label": "AJMER"
+  },
+  {
+    "data": "ALJN",
+    "label": "ALIGARH"
+  },
+  {
+    "data": "ALD",
+    "label": "ALLAHABAD"
+  },
+  {
+    "data": "AWR",
+    "label": "ALWAR"
+  },
+  {
+    "data": "UMB",
+    "label": "AMBALA"
+  },
+  {
+    "data": "AMR",
+    "label": "AMRAVATI"
+  },
+  {
+    "data": "ASR",
+    "label": "AMRITSAR"
+  },
+  {
+    "data": "ANND",
+    "label": "ANAND"
+  },
+  {
+    "data": "ANR",
+    "label": "ANANTHAPUR"
+  },
+  {
+    "data": "ASN",
+    "label": "ASANSOL"
+  },
+  {
+    "data": "AWB",
+    "label": "AURANGABAD"
+  },
+  {
+    "data": "BAI",
+    "label": "BARAMATI"
+  },
+  {
+    "data": "BAN",
+    "label": "BARDHAMAN"
+  },
+  {
+    "data": "BE",
+    "label": "BAREILLY"
+  },
+  {
+    "data": "BDA",
+    "label": "BARODA"
+  },
+  {
+    "data": "BTI",
+    "label": "BATHINDA"
+  },
+  {
+    "data": "BGM",
+    "label": "BELGAUM"
+  },
+  {
+    "data": "BER",
+    "label": "BERHAMPUR"
+  },
+  {
+    "data": "BH",
+    "label": "BHARUCH"
+  },
+  {
+    "data": "BVC",
+    "label": "BHAVNAGAR"
+  },
+  {
+    "data": "BPL",
+    "label": "BHOPAL"
+  },
+  {
+    "data": "BBS",
+    "label": "BHUBANESWAR"
+  },
+  {
+    "data": "BKN",
+    "label": "BIKANER"
+  },
+  {
+    "data": "BSP",
+    "label": "BILASPUR"
+  },
+  {
+    "data": "BKSC",
+    "label": "BOKARO"
+  },
+  {
+    "data": "BUL",
+    "label": "BULANDSHAHR"
+  },
+  {
+    "data": "CAL",
+    "label": "CALICUT"
+  },
+  {
+    "data": "CDG",
+    "label": "CHANDIGARH"
+  },
+  {
+    "data": "CD",
+    "label": "CHANDRAPUR"
+  },
+  {
+    "data": "MAS",
+    "label": "CHENNAI"
+  },
+  {
+    "data": "CBE",
+    "label": "COIMBATORE"
+  },
+  {
+    "data": "HX",
+    "label": "CUDDAPAH"
+  },
+  {
+    "data": "CTC",
+    "label": "CUTTACK"
+  },
+  {
+    "data": "DDN",
+    "label": "DEHRADUN"
+  },
+  {
+    "data": "DHN",
+    "label": "DHANBAD"
+  },
+  {
+    "data": "DURG",
+    "label": "DURG"
+  },
+  {
+    "data": "DGR",
+    "label": "DURGAPUR"
+  },
+  {
+    "data": "ED",
+    "label": "ERODE"
+  },
+  {
+    "data": "FDB",
+    "label": "FARIDABAD"
+  },
+  {
+    "data": "GADJ",
+    "label": "GANDHI NAGAR"
+  },
+  {
+    "data": "GIM",
+    "label": "GANDHIDHAM"
+  },
+  {
+    "data": "SGN",
+    "label": "GANGANAGAR"
+  },
+  {
+    "data": "GAYA",
+    "label": "GAYA"
+  },
+  {
+    "data": "GZB",
+    "label": "GHAZIABAD"
+  },
+  {
+    "data": "GKP",
+    "label": "GORAKHPUR"
+  },
+  {
+    "data": "GNT",
+    "label": "GUNTUR"
+  },
+  {
+    "data": "GGN",
+    "label": "GURGAON"
+  },
+  {
+    "data": "GHY",
+    "label": "GUWAHATI"
+  },
+  {
+    "data": "GWL",
+    "label": "GWALIOR"
+  },
+  {
+    "data": "HAL",
+    "label": "HALDWANI"
+  },
+  {
+    "data": "HW",
+    "label": "HARIDWAR"
+  },
+  {
+    "data": "HMN",
+    "label": "HIMMATNAGAR"
+  },
+  {
+    "data": "HWH",
+    "label": "HOWRAH"
+  },
+  {
+    "data": "UBL",
+    "label": "HUBLI"
+  },
+  {
+    "data": "INDB",
+    "label": "INDORE"
+  },
+  {
+    "data": "JBP",
+    "label": "JABALPUR"
+  },
+  {
+    "data": "JP",
+    "label": "JAIPUR"
+  },
+  {
+    "data": "JRC",
+    "label": "JALANDHAR"
+  },
+  {
+    "data": "JL",
+    "label": "JALGAON"
+  },
+  {
+    "data": "JAT",
+    "label": "JAMMU"
+  },
+  {
+    "data": "JAM",
+    "label": "JAMNAGAR"
+  },
+  {
+    "data": "JAR",
+    "label": "JAMSHEDPUR"
+  },
+  {
+    "data": "JHA",
+    "label": "JHANSI"
+  },
+  {
+    "data": "JU",
+    "label": "JODHPUR"
+  },
+  {
+    "data": "CJ",
+    "label": "KANCHIPURAM"
+  },
+  {
+    "data": "KAN",
+    "label": "KANGRA"
+  },
+  {
+    "data": "CAN",
+    "label": "KANNUR"
+  },
+  {
+    "data": "CNB",
+    "label": "KANPUR"
+  },
+  {
+    "data": "KAR",
+    "label": "KARIM NAGAR"
+  },
+  {
+    "data": "KUN",
+    "label": "KARNAL"
+  },
+  {
+    "data": "KOC",
+    "label": "KOCHIN"
+  },
+  {
+    "data": "KOL",
+    "label": "KOLHAPUR"
+  },
+  {
+    "data": "KOAA",
+    "label": "KOLKATA"
+  },
+  {
+    "data": "QLN",
+    "label": "KOLLAM"
+  },
+  {
+    "data": "KOTA",
+    "label": "KOTA"
+  },
+  {
+    "data": "KTYM",
+    "label": "KOTTAYAM"
+  },
+  {
+    "data": "KUL",
+    "label": "KULLU"
+  },
+  {
+    "data": "KKDE",
+    "label": "KURUKSHETRA"
+  },
+  {
+    "data": "LUR",
+    "label": "LATUR"
+  },
+  {
+    "data": "LJN",
+    "label": "LUCKNOW"
+  },
+  {
+    "data": "LDH",
+    "label": "LUDHIANA"
+  },
+  {
+    "data": "MDU",
+    "label": "MADURAI"
+  },
+  {
+    "data": "RKM",
+    "label": "MANDI"
+  },
+  {
+    "data": "MAQ",
+    "label": "MANGALORE"
+  },
+  {
+    "data": "MTJ",
+    "label": "MATHURA"
+  },
+  {
+    "data": "MAZ",
+    "label": "MAZGAON"
+  },
+  {
+    "data": "MTC",
+    "label": "MEERUT"
+  },
+  {
+    "data": "MEH",
+    "label": "MEHSANA"
+  },
+  {
+    "data": "MB",
+    "label": "MORADABAD"
+  },
+  {
+    "data": "MYS",
+    "label": "MYSORE"
+  },
+  {
+    "data": "NGP",
+    "label": "NAGPUR"
+  },
+  {
+    "data": "NED",
+    "label": "NANDED"
+  },
+  {
+    "data": "NAS",
+    "label": "NASHIK"
+  },
+  {
+    "data": "NAV",
+    "label": "NAVSARI"
+  },
+  {
+    "data": "NLR",
+    "label": "NELLORE"
+  },
+  {
+    "data": "NDA",
+    "label": "NOIDA"
+  },
+  {
+    "data": "PAN",
+    "label": "PANAJI"
+  },
+  {
+    "data": "PKA",
+    "label": "PANCHKULA"
+  },
+  {
+    "data": "PNP",
+    "label": "PANIPAT"
+  },
+  {
+    "data": "PTA",
+    "label": "PATIALA"
+  },
+  {
+    "data": "PNBE",
+    "label": "PATNA"
+  },
+  {
+    "data": "PHO",
+    "label": "PHONDA"
+  },
+  {
+    "data": "PCHY",
+    "label": "PONDICHERRY"
+  },
+  {
+    "data": "PUNE",
+    "label": "PUNE"
+  },
+  {
+    "data": "R",
+    "label": "RAIPUR"
+  },
+  {
+    "data": "RJY",
+    "label": "RAJAHMUNDRY"
+  },
+  {
+    "data": "RJT",
+    "label": "RAJKOT"
+  },
+  {
+    "data": "RNC",
+    "label": "RANCHI"
+  },
+  {
+    "data": "ROK",
+    "label": "ROHTAK"
+  },
+  {
+    "data": "ROU",
+    "label": "ROURKELA"
+  },
+  {
+    "data": "SRE",
+    "label": "SAHARANPUR"
+  },
+  {
+    "data": "SA",
+    "label": "SALEM"
+  },
+  {
+    "data": "SLI",
+    "label": "SANGLI"
+  },
+  {
+    "data": "SML",
+    "label": "SHIMLA"
+  },
+  {
+    "data": "SGUJ",
+    "label": "SILIGURI"
+  },
+  {
+    "data": "SUR",
+    "label": "SOLAPUR"
+  },
+  {
+    "data": "SRI",
+    "label": "SRINAGAR"
+  },
+  {
+    "data": "ST",
+    "label": "SURAT"
+  },
+  {
+    "data": "TLA",
+    "label": "THIRUVALLA"
+  },
+  {
+    "data": "TEN",
+    "label": "TIRUNELVELI"
+  },
+  {
+    "data": "TPTY",
+    "label": "TIRUPATI"
+  },
+  {
+    "data": "TCHY",
+    "label": "TRICHI"
+  },
+  {
+    "data": "TRI",
+    "label": "TRICHUR"
+  },
+  {
+    "data": "TRM",
+    "label": "TRIVANDRUM"
+  },
+  {
+    "data": "UDZ",
+    "label": "UDAIPUR"
+  },
+  {
+    "data": "UJN",
+    "label": "UJJAIN"
+  },
+  {
+    "data": "VAPI",
+    "label": "VAPI"
+  },
+  {
+    "data": "BSB",
+    "label": "VARANASI"
+  },
+  {
+    "data": "VSG",
+    "label": "VASCO"
+  },
+  {
+    "data": "VEL",
+    "label": "VELLORE"
+  },
+  {
+    "data": "VIJ",
+    "label": "VIJAYWADA"
+  },
+  {
+    "data": "VIZ",
+    "label": "VIZAG"
+  },
+  {
+    "data": "WL",
+    "label": "WARANGAL"
+  },
+  {
+    "data": "YA",
+    "label": "YAMUNA NAGAR"
+  }
+]
